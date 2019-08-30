@@ -2,6 +2,14 @@
 
 [SDL] port of the [Homeworld] source code that was [released in 2003] by [Relic].
 
+---
+
+## ⚠ PROJECT MOVED TO [GITLAB] ⚠
+
+[gitlab]: https://gitlab.com/ThibaultLemaire/HomeworldSDL 
+
+---
+
 ## Installing
 
 ### Requirements
@@ -71,25 +79,6 @@ Once the game has launched, you need to:
  The game will now attempt to switch to the OpenGL renderer.  
  If everything goes okay, you should be presented with a confirmation that the settings you requested were changed.  Select "Yes", and you should be ready to go!
 
-## About
-
-This source port exists thanks to the hard work of a few devoted fans and began in 2003, soon after [Relic] released their source code for Homeworld 1. And this even though __the code is not [libre]__. This code and all contributions to it still remain the property of [Relic] (see the [LICENSE](LICENSE.txt) for details).
-
-### [ThibaultLemaire/HomeworldSDL]
-
-This repository, at the time of writing (2019/02/12), holds the most up to date code (to the author's knowledge), and is the only one to provide compiled binaries (see [releases]).
-
-The owner is no expert in C and a latecomer to the homeworldSDL party, but intends to improve the documentation (such as this README) and make the project more accessible. Indeed, most of the resources that were previously available (such as compiled HomeworldSDL binaries), are now -- 15 years later -- down, so the author decided he had to do something about it.
-
-This repository focuses on Linux support.
-
-### [timdetering/HomeworldSDL]
-
-This is the only remnant that the author could find of the HomeworldSDL source code that was previously hosted on svn (at least the only one that preserved the commit history).
-
-### Other repos
-
-If you know of other maintained repositories or if you plan to take on maintenance of this project, please go ahead and [contact] me or open an [issue][issues]!
 
 [SDL]: https://en.wikipedia.org/wiki/Simple_DirectMedia_Layer
 [Homeworld]: https://en.wikipedia.org/wiki/Homeworld
